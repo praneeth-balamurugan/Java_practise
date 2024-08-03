@@ -1,4 +1,4 @@
-public class insertion {
+public class Insertion {
 
     // Method to perform Insertion Sort
     void sort(int arr[]) {
@@ -27,7 +27,7 @@ public class insertion {
 
     // Main method to test the sorting algorithm
     public static void main(String[] args) {
-        insertion sorter = new insertion();  // Create an instance of the class
+        Insertion sorter = new Insertion();  // Create an instance of the class
 
         int[] arr = {12, 11, 13, 5, 6};  // Example array to be sorted
         System.out.println("Original array:");
