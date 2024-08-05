@@ -7,7 +7,7 @@ public class hash
     public static void main(String args[])  
     {  
        /* Create a HashTable to store String values corresponding to integer keys */  
-        Hashtable<Integer, String> hm = new Hashtable<Integer, String>();  
+        Hashtable<Integer, String> hm = new Hashtable<>();  
         /* Input the values */  
         hm.put(3, "You are visiting");  
         hm.put(5, "Hello");  
