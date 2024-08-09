@@ -12,7 +12,6 @@ public class LL {
         }
     }
 
-    // LinkedList class to manage the list operations
     static class LinkedList {
         private Node head;
 
